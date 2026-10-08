@@ -1,0 +1,21 @@
+{
+  "name": "adtraction-webmaster-api",
+  "version": "1.0.0",
+  "main": "AdtractionApi.js",
+  "description": "adtraction.com API integration",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nebaz/adtraction-webmaster-api.git"
+  },
+  "homepage": "http://github.com/nebaz/adtraction-webmaster-api",
+  "author": "Nebaz <nebaz@ya.ru>",
+  "license": "MIT",
+  "keywords": [
+    "adtraction",
+    "webmaster",
+    "api"
+  ],
+  "dependencies": {
+    "usleep": "^1.0.3"
+  }
+}
